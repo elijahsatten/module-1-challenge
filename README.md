@@ -12,7 +12,6 @@ N/A
 
     ```md
     ![alt text](assets/images/screenshot.png)
-    ![alt text](assets/images/screenshot-2.png)
 
 ## Credits
 
