@@ -12,6 +12,8 @@ N/A
 
 Deployment site: https://elijahsatten.github.io/module-1-challenge/
 
+Screenshots in assets folder.
+
 ## Credits
 
 N/A
