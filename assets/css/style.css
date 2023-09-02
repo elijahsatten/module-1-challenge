@@ -1,3 +1,4 @@
+/* Basic Styling for the page */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -8,6 +9,16 @@ body {
     background-color: #d9dcd6;
 }
 
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+p {
+    font-size: 16px;
+}
+
+/* Header Styling with Navbar links */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -33,15 +44,7 @@ header li {
     margin-left: 25px;
 }
 
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
-p {
-    font-size: 16px;
-}
-
+/* Main Image */
 .hero {
     height: 800px;
     width: 100%;
@@ -51,6 +54,7 @@ p {
     background-position: center;
 }
 
+/* Content Styling */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -67,30 +71,7 @@ p {
     margin-left: 20px;
 }
 
-.benefits {
-    margin-right: 20px;
-    margin-bottom: 32px;
-    padding: 20px;
-    clear: both;
-    float: right;
-    width: 20%;
-    height: 100%;
-    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
-    background-color: #2589bd;
-    color: #ffffff
-}
-
-.benefits h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefits img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
+/* Extra Styling and Positioning for content */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -145,6 +126,32 @@ p {
     font-size: 36px;
 }
 
+/* Styling for Benefits Side Panel */
+.benefits {
+    margin-right: 20px;
+    margin-bottom: 32px;
+    padding: 20px;
+    clear: both;
+    float: right;
+    width: 20%;
+    height: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+    background-color: #2589bd;
+    color: #ffffff
+}
+
+.benefits h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.benefits img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+
+/* Footer Styling */
 footer {
     padding: 30px;
     clear: both;
