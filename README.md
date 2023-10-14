@@ -12,7 +12,8 @@ N/A
 
 Deployment site: https://elijahsatten.github.io/module-1-challenge/
 
-Screenshots in assets folder.
+![Screenshot](assets/images/screenshot.png)
+![Screenshot2](assets/images/screenshot-2.png)
 
 ## Credits
 
