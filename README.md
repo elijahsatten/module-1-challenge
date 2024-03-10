@@ -1,8 +1,8 @@
-# Module 1 Challenge | Horiseon Project
+# Module 1 Challenge - Horiseon Project
 
 ## Description
 
-Module 1 Challenge Project
+Module 1 Challenge Project - Horiseon Project
 
 ## Installation
 
